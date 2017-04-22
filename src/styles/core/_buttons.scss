@@ -1,0 +1,21 @@
+.btn {
+  cursor: pointer;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  font-family: $font-family__body;
+  font-weight: bold;
+  display: inline-block;
+  border: 0;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+.btn--primary {
+  color: #fff;
+  background-color: $color__primary;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: $color__primary--dark;
+  }
+}

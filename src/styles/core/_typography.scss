@@ -1,0 +1,24 @@
+body {
+  color: $font-color__body;
+  font-family: $font-family__body;
+  font-size: $font-size__body;
+}
+
+h1,
+h2,
+h3 {
+  color: $font-color__heading;
+  font-family: $font-family__heading;
+}
+
+.divider {
+  width: 60px;
+  border-top: 3px solid $color__gray--darker;
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+a {
+  color: $color__primary;
+}

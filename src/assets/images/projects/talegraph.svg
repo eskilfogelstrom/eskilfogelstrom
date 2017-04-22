@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="498px" height="442px" viewBox="0 0 498 442" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-3" x="0" y="0" width="498" height="442"></rect>
+        <g id="Bar_chart" opacity="0.927536232" transform="translate(53.000000, 0.000000)" fill="#9E222D">
+            <rect id="Rectangle-2" x="344" y="236" width="38" height="206" rx="8"></rect>
+            <rect id="Rectangle-2" x="0" y="0" width="38" height="441" rx="8"></rect>
+            <rect id="Rectangle-2" x="43" y="147" width="38" height="295" rx="8"></rect>
+            <rect id="Rectangle-2" x="86" y="182" width="38" height="259" rx="8"></rect>
+            <rect id="Rectangle-2" x="129" y="82" width="38" height="360" rx="8"></rect>
+            <rect id="Rectangle-2" x="172" y="51" width="38" height="390" rx="8"></rect>
+            <rect id="Rectangle-2" x="215" y="122" width="38" height="320" rx="8"></rect>
+            <rect id="Rectangle-2" x="258" y="157" width="38" height="284" rx="8"></rect>
+            <rect id="Rectangle-2" x="301" y="262" width="38" height="180" rx="8"></rect>
+        </g>
+        <g id="Line_chart" transform="translate(-101.000000, 63.000000)">
+            <path d="M589.054917,31.382716 L513.319285,56.6419753" id="Line-Copy" stroke="#7D1A23" stroke-width="8" stroke-linecap="square"></path>
+            <ellipse id="Oval-Copy" fill="#7D1A23" cx="109.778416" cy="239.197531" rx="8.79757344" ry="8.80246914"></ellipse>
+            <ellipse id="Oval-Copy-2" fill="#7D1A23" cx="200.814176" cy="46.308642" rx="8.79757344" ry="8.80246914"></ellipse>
+            <ellipse id="Oval-Copy-3" fill="#7D1A23" cx="324.745211" cy="133.567901" rx="8.79757344" ry="8.80246914"></ellipse>
+            <ellipse id="Oval-Copy-4" fill="#7D1A23" cx="415.780971" cy="8.80246914" rx="8.79757344" ry="8.80246914"></ellipse>
+            <ellipse id="Oval-Copy-4" fill="#7D1A23" cx="512.936782" cy="56.2592593" rx="8.79757344" ry="8.80246914"></ellipse>
+            <ellipse id="Oval-Copy-4" fill="#7D1A23" cx="590.202427" cy="31" rx="8.79757344" ry="8.80246914"></ellipse>
+            <path d="M201.196679,47.4567901 L323.597701,132.419753" id="Line-Copy" stroke="#7D1A23" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M413.868455,7.65432099 L509.494253,54.345679" id="Line-Copy" stroke="#7D1A23" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M199.666667,49.7530864 L112.455939,234.987654" id="Line-Copy" stroke="#7D1A23" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M413.868455,12.2469136 L325.127714,133.950617" id="Line-Copy" stroke="#7D1A23" stroke-width="8" stroke-linecap="square"></path>
+        </g>
+        <g id="Plotter_chart" transform="translate(60.000000, 63.000000)" fill="#F06A76">
+            <circle id="Oval-7" opacity="0.664402174" cx="217" cy="254" r="35"></circle>
+            <circle id="Oval-2" opacity="0.800215127" cx="81.5" cy="68.5" r="29.5"></circle>
+            <circle id="Oval-3" opacity="0.664402174" cx="140" cy="157" r="19"></circle>
+            <circle id="Oval-4" opacity="0.664402174" cx="217" cy="107" r="10"></circle>
+            <circle id="Oval-5" opacity="0.664402174" cx="49.5" cy="218.5" r="24.5"></circle>
+            <circle id="Oval-6" opacity="0.664402174" cx="241.5" cy="131.5" r="14.5"></circle>
+            <circle id="Oval-8" opacity="0.66" cx="300.5" cy="168.5" r="21.5"></circle>
+        </g>
+    </g>
+</svg>

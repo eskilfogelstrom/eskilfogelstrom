@@ -1,0 +1,18 @@
+$color__primary: #e7227a;
+$color__primary--dark: darken($color__primary, 10%);
+
+$color__gray: #999;
+$color__gray--dark: #444;
+$color__gray--darker: #222;
+$color__gray--light: #ddd;
+$color__gray--lighter: #f2f2f2;
+
+
+$font-size__body: 15px;
+$font-size__large: 32px;
+
+$font-family__body: 'Source Sans Pro', sans-serif;
+$font-family__heading: 'Playfair Display', serif;
+
+$font-color__body: $color__gray--dark;
+$font-color__heading: $color__gray--darker;
